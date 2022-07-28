@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hope-22
 - 👀 I’m interested in learning, and growing as a software developer.
-- 🌱 I’m currently learning C# on the .NET Framework, and React.
+- 🌱 I'm familiar with C# (ASP.NET| ASP.NET Core| SQL | MySQL | React).
 - 💞️ I’m looking to collaborate on any project that'll enhance my skill as a C# dev.
 - 📫 How to reach me: Send a mail to onofehope107@gmail.com, and I'll be sure to respond.
 
